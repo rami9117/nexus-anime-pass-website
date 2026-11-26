@@ -1,0 +1,20 @@
+{
+  "sources": {
+    "anikoto": "https://anikototv.to",
+    "anipub": "https://anipub.xyz",
+    "witanime": "https://witanime.net",
+    "animelek": "https://animelek.top"
+  },
+  "ads": {
+    "enabled": false,
+    "bannerId": "",
+    "interstitialId": "",
+    "rewardedId": ""
+  },
+  "appUpdate": {
+    "minVersion": "1.0",
+    "latestVersion": "1.0",
+    "updateUrl": "",
+    "message": "يتوفر تحديث جديد للتطبيق. حدّث التطبيق للحصول على أحدث التحسينات."
+  }
+}
