@@ -6,15 +6,20 @@
     "animelek": "https://animelek.top"
   },
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "bannerId": "",
     "interstitialId": "",
-    "rewardedId": ""
+    "rewardedId": "",
+    "startIoAppId": "210303275"
   },
   "appUpdate": {
     "minVersion": "1.0",
     "latestVersion": "1.0",
     "updateUrl": "",
     "message": "يتوفر تحديث جديد للتطبيق. حدّث التطبيق للحصول على أحدث التحسينات."
+  },
+  "aiTranslation": {
+    "enabled": true,
+    "model": "gemini-flash-latest"
   }
 }
